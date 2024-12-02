@@ -2,10 +2,10 @@ import CertCard from './CertCard.js';
 
 // import
 
-export default function Employement() {
+export default function Employment() {
   return (
-    <div id='employement' className='mt-4 text-white'>
-      <h1 className='text-2xl font-bold'>Employement</h1>
+    <div id='employment' className='mt-4 text-white'>
+      <h1 className='text-2xl font-bold'>Employment</h1>
       <div style={{ marginTop: '10px' }}>
         <h1 className='text-xl'>
           <span className='font-bold'>Software Development Engineer</span>
