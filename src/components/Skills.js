@@ -12,13 +12,13 @@ import docker from "../assets/skills/docker.svg"
 import git from "../assets/skills/git.svg"
 import express from "../assets/skills/express.svg"
 import nodejs from "../assets/skills/nodejs.svg"
-
-
-
 import nextjs from "../assets/skills/nextjs.svg"
 import nestjs from "../assets/skills/nestjs.svg"
 import graphql from "../assets/skills/graphql.svg"
 import aws from "../assets/skills/aws.svg"
+import kubernetes from "../assets/skills/kubernetes.svg"
+import tailwind from "../assets/skills/tailwind.svg"
+import react from "../assets/skills/react.svg"
 
 
 import hr from "../assets/curve-hr.svg"
@@ -39,12 +39,15 @@ export default function Skills() {
 
             <div className="mt-4">
                 <Slider {...settings}>
+                <SkillCard name="React" img={react} />
+                <SkillCard name="NextJS" img={nextjs} />
+                <SkillCard name="Tailwind" img={tailwind} />
                 <SkillCard name="NestJS" img={nestjs} />
                 <SkillCard name="NodeJS" img={nodejs} />
-                <SkillCard name="NextJS" img={nextjs} />
                 <SkillCard name="GraphQL" img={graphql} />
                 <SkillCard name="AWS" img={aws} />
                 <SkillCard name="Docker" img={docker} />
+                <SkillCard name="Kubernetes" img={kubernetes} />
                 <SkillCard name="TypeScript" img={typescript} />
                 <SkillCard name="JavaScript" img={javascript} />
                 <SkillCard name="Python" img={python} />

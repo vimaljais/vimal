@@ -11,7 +11,37 @@ export default function Employment() {
           <span className='font-bold'>Software Development Engineer</span>
           <br />
           <span style={{ fontSize: 15 }}>
-            Daffodil Software Pvt Ltd [Jan 2022 - Present]
+            Fractal Analytics [Feb 2025 - Present]
+          </span>
+        </h1>
+
+        <p style={{fontSize: 12, paddingBottom: 4}}>
+          • Designed and developed an enterprise-grade AI assistant platform enabling users to create, organize, and execute complex workflows, data-driven notebooks, and visual canvases for internal analytics and research.
+        </p>
+
+        <p style={{fontSize: 12, paddingBottom: 4}}>
+          • Engineered a modular frontend architecture using Next.js and Tailwind CSS for interactive user experiences, integrating real-time collaboration, rich text editing, and customizable data visualization components.
+        </p>
+
+        <p style={{fontSize: 12, paddingBottom: 4}}>
+          • Built scalable backend services utilizing LangChain, FastAPI, and Langfuse for prompt orchestration, semantic search, and vector-based context retrieval in large language model applications.
+        </p>
+
+        <p style={{fontSize: 12, paddingBottom: 4}}>
+          • Implemented secure storage and retrieval of user data and knowledge graphs using Azure Blob Storage and Azure Vector Search, with robust access controls and audit logging.
+        </p>
+
+        <p style={{fontSize: 12, paddingBottom: 4}}>
+          • Orchestrated distributed infrastructure with Kubernetes for container management, supporting auto-scaling and high availability.
+        </p>
+      </div>
+
+      <div style={{ marginTop: '20px' }}>
+        <h1 className='text-xl'>
+          <span className='font-bold'>Software Development Engineer</span>
+          <br />
+          <span style={{ fontSize: 15 }}>
+            Daffodil Software Pvt Ltd [Jan 2022 - Feb 2025]
           </span>
         </h1>
 

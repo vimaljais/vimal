@@ -27,14 +27,14 @@ export default function Hiro () {
                     <h1 className="text-xl text-gray-400">Hi, I'm</h1>
                     <h1 className="text-2xl font-bold">Vimal Jaiswal</h1>
                     <p class="text-xl font-bold text-gray-300">Software Development Engineer</p>
-                    <p className="text-md font-light text-gray-400 ">Enthusiastic and motivated self-learning in Information Technology. Interested in exploring about Backend Development, Computer Network, Cloud Computing and DevSecOps. Now I am looking for more experience in my field.</p>
+                    <p className="text-md font-light text-gray-400 ">Innovative and results-driven Software Engineer with around 4 years of experience spanning full-stack web application development, API design, system integration, and cloud infrastructure. Adept at building scalable, high-performance solutions and crafting seamless user experiences.</p>
                 </div>
                 <ul className='flex mt-2 gap-12 items-center'>
                    <li>
                         <a href='https://github.com/vimaljais' rel="noreferrer" target="_blank"><FontAwesomeIcon size='2xl' icon={faGithub} /></a>
                    </li> 
                     <li>
-                        <a href='https://www.linkedin.com/in/vimal-jaiswal-5593a4194/' rel="noreferrer" target="_blank"><FontAwesomeIcon size='2xl' icon={faLinkedinIn} /></a>
+                        <a href='https://www.linkedin.com/in/vimaljais' rel="noreferrer" target="_blank"><FontAwesomeIcon size='2xl' icon={faLinkedinIn} /></a>
                     </li>
                 </ul>
             </div>
